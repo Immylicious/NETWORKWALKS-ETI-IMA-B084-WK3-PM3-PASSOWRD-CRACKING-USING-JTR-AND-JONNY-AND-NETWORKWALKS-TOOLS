@@ -67,4 +67,6 @@ This project explores password security auditing and hash-based password recover
 <img width="703" height="457" alt="Screenshot 2026-11-19 195344" src="https://github.com/user-attachments/assets/6c172480-48e2-434c-b692-00b1bcf8d04b" />
 
 
-![Uploading Screenshot 2026-11-19 195405.png…]()
+
+<img width="1918" height="931" alt="Screenshot 2026-11-19 195405" src="https://github.com/user-attachments/assets/4857f74b-190f-4ba3-8462-41ea295f575a" />
+
